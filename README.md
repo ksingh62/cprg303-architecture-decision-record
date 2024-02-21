@@ -88,3 +88,8 @@ You are part of a team that has been tasked with creating a mobile app for a mod
 │   └── Scenario_4_Transportation_App
 │
 └── README.md
+```
+
+## Further Information
+
+For more details on ADRs, visit [Architecture decision record (ADR).](https://github.com/joelparkerhenderson/architecture-decision-record)
