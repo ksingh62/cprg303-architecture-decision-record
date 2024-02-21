@@ -83,7 +83,7 @@ You are part of a team that has been tasked with creating a mobile app for a mod
 │
 ├── ADRs
 │   ├── Scenario_1_Retail_App
-│   ├── Scenario_2_University_Social_Network
+│   ├── Scenario_2_University_Social_Network_App
 │   ├── Scenario_3_Food_Ordering_App
 │   └── Scenario_4_Transportation_App
 │
