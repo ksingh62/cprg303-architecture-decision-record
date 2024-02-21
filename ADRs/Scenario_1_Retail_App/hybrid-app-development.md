@@ -1,4 +1,4 @@
-# 001 - Hybrid App Development
+# Architecture Decision Record: Hybrid App Development
 
 ## Status
 
@@ -10,7 +10,7 @@ The retail company requires a mobile app that supports both iOS and Android plat
 
 ## Decision
 
-We have decided to develop a hybrid mobile application using Flutter. This framework enables us to write a single codebase for both platforms, ensuring consistency in functionality and user experience. Flutter's robust set of widgets and tools allows for creating a highly responsive and visually appealing interface.
+We have decided to develop a hybrid mobile application using Flutter. This framework enables us to write a single codebase for both platforms Android and iOS, ensuring consistency in functionality and user experience. Flutter's robust set of widgets and tools allows for creating a highly responsive and visually appealing interface.
 
 ## Consequences
 
